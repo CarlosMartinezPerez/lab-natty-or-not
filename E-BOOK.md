@@ -1,4 +1,5 @@
 # Transição de Carreira para a Área de TI
+## 10 Dicas para te guiar na transição de carreira para a área de TI
 
 Vamos criar um artigo que cubra os pontos cruciais dessa transição. Aqui estão os dez itens importantes a serem discutidos:
 
