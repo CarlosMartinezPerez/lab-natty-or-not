@@ -3,6 +3,7 @@
 ## 📒 Descrição
 Ebook sobre transição de carreira para a áreas de TI que apliquem IA.
 
+
 ## 🤖 Tecnologias Utilizadas
 ChatGPT
 
@@ -13,11 +14,9 @@ Apliquei os prompts abaixo:
 Haja como um consultor de carreiras experiente, com trabalhos relevantes de head hunter e elenque 10 itens importantes a serem discutidos em um artigo sobre esse assunto em uma revista especializada em RH.
 O último item deve ser sobre a necessidade de um bom repertório cultural, de negócios e de tecnologia  para que se saiba preparar perguntas para uma IA. Isso requer muita leitura, o que dá vantagem aos  trabalhadores mais seniores, em detrimento de uma geração mais nova, imediatista, que não tem hábitos de leitura e, portanto, não possui essa bagagem intelectual.
 
-2. 
 
 ## 🚀 Resultados
-O resultado aparece nesse repositório sob o nome E-BOOK.md.
-
+O resultado aparece nesse repositório sob o nome E-BOOK.md. Excteo pela deleção da palavra "Certamente!" no início do primeiro resultado, todos os textos gerados pelo ChatGPT foram mantidos da forma em que foram propostos pela ferramenta.
 
 
 ## 💭 Reflexão (Opcional)
