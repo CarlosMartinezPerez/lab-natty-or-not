@@ -16,7 +16,7 @@ O último item deve ser sobre a necessidade de um bom repertório cultural, de n
 
 
 ## 🚀 Resultados
-O resultado aparece nesse repositório sob o nome E-BOOK.md. Excteo pela deleção da palavra "Certamente!" no início do primeiro resultado, todos os textos gerados pelo ChatGPT foram mantidos da forma em que foram propostos pela ferramenta.
+O resultado aparece nesse repositório sob o nome E-BOOK.md. Excteo pela deleção da palavra "Certamente!" no início do primeiro resultado e de alguns subtítulos repetidos, todos os textos gerados pelo ChatGPT foram mantidos da forma em que foram propostos pela ferramenta, para exaltar a importância de se preparar prompts certeiros.
 
 
 ## 💭 Reflexão (Opcional)
