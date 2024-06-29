@@ -21,4 +21,5 @@ O resultado aparece nesse repositório sob o nome E-BOOK.md.
 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+O E-BOOK proposto reflete meu atual estágio de carreira: prestes a me aposentar como progessor de Matemática, faltando um semestre para minha segunda graduação em Engenharia, dessa vez em Computação, em transição de carreira para a área de TI, usuário pleno do ChatGPT.
+
