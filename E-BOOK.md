@@ -2,7 +2,7 @@
 
 ## 10 Dicas para te guiar na transição de carreira para a área de TI
 
-!(67fb6f7b802e60179c7f8f27af5fa96fb1419346.jpg)
+![](67fb6f7b802e60179c7f8f27af5fa96fb1419346.jpg)
 
 Vamos criar um artigo que cubra os pontos cruciais dessa transição. Aqui estão os dez itens importantes a serem discutidos:
 
