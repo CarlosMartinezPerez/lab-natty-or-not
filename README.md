@@ -16,7 +16,9 @@ O último item deve ser sobre a necessidade de um bom repertório cultural, de n
 2. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado aparece nesse repositório sob o nome E-BOOK.md.
+
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
