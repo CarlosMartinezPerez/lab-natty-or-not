@@ -7,6 +7,7 @@ Ebook sobre transição de carreira para a áreas de TI que apliquem IA.
 ## 🤖 Tecnologias Utilizadas
 
 ChatGPT
+
 Deep Dream Generator
 
 ## 🧐 Processo de Criação
