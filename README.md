@@ -14,6 +14,23 @@ Apliquei os prompts abaixo:
 Haja como um consultor de carreiras experiente, com trabalhos relevantes de head hunter e elenque 10 itens importantes a serem discutidos em um artigo sobre esse assunto em uma revista especializada em RH.
 O último item deve ser sobre a necessidade de um bom repertório cultural, de negócios e de tecnologia  para que se saiba preparar perguntas para uma IA. Isso requer muita leitura, o que dá vantagem aos  trabalhadores mais seniores, em detrimento de uma geração mais nova, imediatista, que não tem hábitos de leitura e, portanto, não possui essa bagagem intelectual.
 
+2. Discuta o item 1, abaixo:
+"1. Avaliação das Competências Transferíveis
+Descrição: Identificar habilidades e conhecimentos da área de educação que são aplicáveis à IA, como habilidades analíticas, de pesquisa e comunicação."
+Evite usar adjetivação excessiva, principalmente os clichês "cruciais" e "insights valiosos".
+
+3. Discuta o item 2, abaixo:
+"2. Necessidade de Reciclagem e Aprendizagem Contínua
+Descrição: Importância de se manter atualizado com as últimas tendências e tecnologias em IA. Cursos online, certificações e workshops podem ser valiosos."
+Não há a necessidade de resumir o que foi discutido, no final do seu texto.
+
+4. Discuta o item 3, abaixo:
+"3. Mapeamento de Carreira e Definição de Objetivos
+Descrição: Estabelecer metas claras e realistas para a transição. Planejamento de curto e longo prazo para atingir esses objetivos."
+Não há a necessidade do parágrafo final resumindo o item.
+
+5. 
+
 
 ## 🚀 Resultados
 O resultado aparece nesse repositório sob o nome E-BOOK.md. Excteo pela deleção da palavra "Certamente!" no início do primeiro resultado e de alguns subtítulos repetidos, todos os textos gerados pelo ChatGPT foram mantidos da forma em que foram propostos pela ferramenta, para exaltar a importância de se preparar prompts certeiros.
