@@ -2,7 +2,7 @@
 
 ## 📒 Descrição
 
-Ebook sobre transição de carreira para a áreas de TI que apliquem IA.
+Ebook sobre transição de carreira para a área de TI que apliquem IA.
 
 ## 🤖 Tecnologias Utilizadas
 
